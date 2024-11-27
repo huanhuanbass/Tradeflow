@@ -16,7 +16,6 @@ from calendar import monthrange
 from pandas.tseries.offsets import BDay
 import requests
 import ftplib
-import yfinance as yf
 from math import ceil
 from datetime import datetime
 import time
